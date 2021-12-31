@@ -1,6 +1,6 @@
 ---
 # Display name
-# title: Henrik Bjarke Vægter
+title: Henrik Bjarke Vægter
 
 # Is this the primary user of the site?
 superuser: true
