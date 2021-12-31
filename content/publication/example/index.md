@@ -6,6 +6,7 @@ title: "The power of words: Influence of Preexercise Information on Hypoalgesia 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Henrik Bjarke Vaegter
 - Peter Thinggaard
 - Casper Høi Madsen
 - Monika Hasenbring
