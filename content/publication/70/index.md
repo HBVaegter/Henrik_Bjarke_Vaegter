@@ -48,12 +48,12 @@ Trial registration: EudraCT 2019-000702-30. ClinicalTrials.gov NCT04270877
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
- links:
- - name: Custom Link
-   url: https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05776-7
+# links:
+# - name: Custom Link
+#   url: https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05776-7
 
 url_pdf: ''
 url_code: ''
