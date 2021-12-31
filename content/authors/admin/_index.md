@@ -71,7 +71,7 @@ Henrik Bjarke Vægter is an internationally leading researcher in the field of p
 
 Henrik Bjarke Vægter is Head of the interdisciplinary Pain Research Group at University Hospital Odense and he has extensive experience in working in interdisciplinary teams and networks nationally and internationally within this area. He is leading several large scale externally funded projects and randomized controlled trials in clinical practice.
 
-Henrik has published extensively within the field of pain and exercise, and is author of 70 publications in international peer-reviewed journals (2/3 as first or senior author) with several papers published in the top five journals in the pain and exercise field (e.g. PAIN, Journal of Pain, Medicine and Science in Sports and Exercise). His H-index is 22 (Google Scholar).
+Henrik has published extensively within the field of pain and exercise, and is author of 70 publications in international peer-reviewed journals (2/3 as first or senior author) with several papers published in the top five journals in the pain and exercise field (e.g. PAIN, Journal of Pain, Medicine and Science in Sports and Exercise). His H-index is 23 (Google Scholar).
 
 Henrik has led the development and implementation of 2 electronic clinical registries (PainData and FunkData) including patient-reported outcome (PRO) measures across more than 20 private and public interdisciplinary rehabilitation centers in Denmark, and is now leading the steering group for development of quality indicators in interdisciplinary pain management in Denmark comprising multiple professional disciplines (center leaders, physicians, nurses, psychologist, physiotherapists, secretaries and patient-representatives). Furthermore, he has a strong collaboration with Danish Regions where he is part of the implementation group for the project Value- Based Health Care in high-impact chronic pain.
 
@@ -81,4 +81,4 @@ Henrik Bjarke Vægter has received research support as the principal investigato
 
 Henrik has a comprehensive teaching portfolio including formal education (Lecturer Training Programme, SDU) and supervision of master’s students, PhD students and postdocs as well as formal educational training in research leadership and management (Project Management and Leadership for researchers at RUC and SDU). He has served as PhD opponent in Denmark and Australia.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://home.mycloud.com/action/share/d1b131fa-800e-431a-ac66-427abcedc75c" "newtab" >}}publication list{{< /staticref >}}.
