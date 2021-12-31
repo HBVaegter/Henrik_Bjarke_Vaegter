@@ -1,5 +1,5 @@
 ---
-title: "The power of words: influence of pre-exercise expectancy information on exercise-induced hypoalgesia – a randomized controlled trial"
+title: "The power of words: Influence of Preexercise Information on Hypoalgesia after Exercise - Randomized Controlled Trial"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
