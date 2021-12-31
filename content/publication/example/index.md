@@ -1,17 +1,20 @@
 ---
-title: "An example conference paper"
+title: "The power of words: influence of pre-exercise expectancy information on exercise-induced hypoalgesia – a randomized controlled trial"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Peter Thinggaard
+- Casper Høi Madsen
+- Monika Hasenbring
+- Jonas Bloch Thorlund
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -23,16 +26,24 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Medicine and Science in Sports and Medicine*
+publication_short: In *MSSE*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Purpose: Exercise increases pressure pain thresholds (PPT) in pain-free individuals, known as exercise-induced hypoalgesia (EIH). Positive preexercise information can elicit higher EIH responses, but the effect of positive versus negative preexercise information on EIH is unknown. The primary aim of this randomized controlled trial was to compare EIH at the exercising thigh muscle after an isometric squat exercise between individuals receiving positive versus negative preexercise information about the effect of exercise on pain. Secondary aims were to compare EIH at nonexercising muscles between groups, and to investigate the relationship between participants' expectations and EIH.
+
+Methods: Eighty-three participants were randomly assigned to brief positive (n = 28), neutral (n = 28) or negative (n = 27) verbal information. The neutral information group was included in the study as a reference group. Pressure pain thresholds at the thigh and trapezius muscles were assessed before and after the intervention (i.e., preexercise information+squat exercise). Expectations of pain relief were assessed using a numerical rating scale (-10 [most negative] to 10 [most positive]).
+
+Results: Change in quadriceps and trapezius PPT after the squat exercise showed a large difference between the positive and negative information groups (quadriceps, 102 kPa; 95% confidence interval, 55-150; effect size, 1.2; trapezius, 41 kPa; 95% confidence interval, 16-65; effect size:, 0.9). The positive information group had a 22% increase in quadriceps PPT whereas the negative information group had a 4% decrease. A positive correlation was found between expectations and increase in PPT.
+
+Conclusions: Negative preexercise information caused hyperalgesia after the wall squat exercise, whereas positive or neutral preexercise information caused hypoalgesia. Positive preexercise information did not change the magnitude of EIH compared with neutral information.
+
+Trial registration: ClinicalTrials.gov NCT03678662. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -76,12 +87,12 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
