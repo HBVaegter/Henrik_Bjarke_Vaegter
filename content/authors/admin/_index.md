@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Henrik Bjarke Vægter
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor in Physiotherapy
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Pain Research Group, Pain Center, University Hospital Odense and Department of Clinical Research, University of Southern Denmark
+  url: https://www.sdu.dk/en/forskning/anaestesiologi
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+- High impact chronic pain
+- Exercise and pain
+- Pro- and antinociceptive mechanisms
+- 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Pain Neuroscience
+    institution: Aalborg University
+    year: 2015
+  - course: MSc Pain Management
+    institution: University of Edinburgh
+    year: 2010
+  - course: Bachelor in Physiotherapy
+    institution: University College Zealand
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,16 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:hbv@rsyd.dk
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/HBVaegter
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.co.uk/citations?hl=da&user=R6fi6J8AAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -70,8 +67,18 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Henrik Bjarke Vægter is an internationally leading researcher in the field of pain, exercise and pro- and anti- nociceptive mechanisms. His primary research expertise lies within pain, physical activity, and interdisciplinary rehabilitation with a particular focus on quantitative assessment of pro- and anti-nociceptive mechanisms in individuals with chronic pain to understand how these manifestations influence outcomes after rehabilitation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Henrik Bjarke Vægter is Head of the interdisciplinary Pain Research Group at University Hospital Odense and he has extensive experience in working in interdisciplinary teams and networks nationally and internationally within this area. He is leading several large scale externally funded projects and randomized controlled trials in clinical practice.
+
+Henrik has published extensively within the field of pain and exercise, and is author of 70 publications in international peer-reviewed journals (2/3 as first or senior author) with several papers published in the top five journals in the pain and exercise field (e.g. PAIN, Journal of Pain, Medicine and Science in Sports and Exercise). His H-index is 22 (Google Scholar).
+
+Henrik has led the development and implementation of 2 electronic clinical registries (PainData and FunkData) including patient-reported outcome (PRO) measures across more than 20 private and public interdisciplinary rehabilitation centers in Denmark, and is now leading the steering group for development of quality indicators in interdisciplinary pain management in Denmark comprising multiple professional disciplines (center leaders, physicians, nurses, psychologist, physiotherapists, secretaries and patient-representatives). Furthermore, he has a strong collaboration with Danish Regions where he is part of the implementation group for the project Value- Based Health Care in high-impact chronic pain.
+
+Henrik is associate editor for Scand J Pain since 2020 and perform numerous ad-hoc reviews for scientific journals, including frequent reviews for top journals within the pain field. He has served as grant reviewer for organizations such as Medical Research Council, UK, Research Council Norway, Auckland Medical Research Foundation in New Zealand and Israel Science Foundation.
+
+Henrik Bjarke Vægter has received research support as the principal investigator or co-applicant from numerous sources including The philanthropic foundation TrygFonden, HelseFonden, Offerfonden, Sundheds- og Ældreministeriet, The Danish Rheumatism Association, Udviklings- og Forskningspuljen, and The Fund for Physiotherapy in Private Practice.
+
+Henrik has a comprehensive teaching portfolio including formal education (Lecturer Training Programme, SDU) and supervision of master’s students, PhD students and postdocs as well as formal educational training in research leadership and management (Project Management and Leadership for researchers at RUC and SDU). He has served as PhD opponent in Denmark and Australia.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
