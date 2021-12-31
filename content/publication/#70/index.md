@@ -48,7 +48,7 @@ Trial registration: EudraCT 2019-000702-30. ClinicalTrials.gov NCT04270877
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
