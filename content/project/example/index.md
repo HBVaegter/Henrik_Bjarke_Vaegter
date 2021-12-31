@@ -1,12 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+title: The CONFeTTI trial
+summary: This trial compares CFT including psychologist support (CFT+) with an interdisciplinary pain management pathway (usual care) in patients with high impact chronic back pain.
+# tags:
+# - Deep Learning
+# date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://academic.oup.com/ptj/article/101/9/pzab132/6277052"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/HBVaegter
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,15 +27,15 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Objective: Chronic low back pain (cLBP) is the leading cause of disability. Interdisciplinary pain management is recommended for patients with severe/high-impact cLBP. Such programs are expensive, not easily accessible, and have limited effect; therefore, new cost-effective strategies are warranted. Cognitive functional therapy (CFT) has shown promising results but has not been compared with an interdisciplinary pain management approach. The primary aim of this randomized controlled trial is to investigate if a pathway starting with CFT including psychologist support (CFT+) with the option of additional usual care (if needed) is superior in improving disability and more cost-effective at 12 months compared with an interdisciplinary pain management pathway (usual care).
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Methods: This pragmatic, 2-arm, parallel-group randomized controlled trial will randomly allocate patients (n = 176) aged 18 to 75 years referred to an interdisciplinary pain center due to severe cLBP to 1 of 2 groups (1:1 ratio). Participants randomized to CFT+ will participate in a 3-month functional rehabilitation pathway with the option of additional usual care (if needed), and participants randomized to the interdisciplinary pain management pathway will participate in an individualized program of longer duration designed to best suit the individual's situation, needs, and resources. The primary outcome is the proportion of participants with an 8-point improvement in the Oswestry Disability Index score at 12 months. Exploratory outcomes are change in Oswestry Disability Index scores over time and an economic analysis of quality-adjusted life years using the 3-level version of the EuroQol EQ-5D.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Impact: The study evaluates the cost-effectiveness of CFT+ with the option of additional usual care (if needed) for individuals with severe cLBP. Findings can potentially improve future care pathways and reduce cost for the health care system.
+
+Trial registration: ClinicalTrials.gov NCT04399772. 
