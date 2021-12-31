@@ -1,6 +1,6 @@
 ---
 title: The CONFeTTI trial
-summary: This trial compares CFT including psychologist support (CFT+) with an interdisciplinary pain management pathway (usual care) in patients with high impact chronic back pain.
+summary: This trial compares Cognitive Functional Therapy (CFT) including psychologist support (CFT+) with an interdisciplinary pain management pathway (usual care) in patients with high impact chronic back pain.
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
