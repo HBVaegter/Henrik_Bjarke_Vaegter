@@ -21,7 +21,7 @@ interests:
 - High impact chronic pain
 - Exercise and pain
 - Pro- and antinociceptive mechanisms
-- 
+
 # Education to show in About widget
 education:
   courses:
