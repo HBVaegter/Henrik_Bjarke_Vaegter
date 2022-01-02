@@ -29,7 +29,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Scandinavian Journal of Pain*
-publication_short: In *Scand J Pain, In press*
+publication_short: In *Scand J Pain 21(3):539-547*
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
