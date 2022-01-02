@@ -5,11 +5,10 @@ title: "The association of probable PTSD at baseline and pain-related outcomes a
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Andersen TE
+- Hansen M
+- Ravn SL
 - admin
-- Peter Thinggaard
-- Casper Høi Madsen
-- Monika Hasenbring
-- Jonas Bloch Thorlund
 
 # Author notes (optional)
 # author_notes:
