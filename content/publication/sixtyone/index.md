@@ -87,4 +87,4 @@ url_video: ''
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Link to publication {{< staticref "https://www.dovepress.com/getfile.php?fileID=69041" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Link to open access publication {{< staticref "https://www.dovepress.com/getfile.php?fileID=69041" "newtab" >}}here{{< /staticref >}}.
