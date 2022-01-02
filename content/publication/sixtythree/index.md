@@ -82,3 +82,5 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+{{< icon name="download" pack="fas" >}} Link to open access publication {{< staticref "https://findresearcher.sdu.dk:8443/ws/portalfiles/portal/182537773/1_s2.0_S0022175921001022_main.pdf" "newtab" >}}here{{< /staticref >}}.
