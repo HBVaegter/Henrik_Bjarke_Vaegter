@@ -48,7 +48,7 @@ Trial registration: ClinicalTrials.gov NCT03678662.
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+# featured: true
 
 # Custom links (uncomment lines below)
 # links:
