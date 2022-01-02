@@ -21,6 +21,8 @@ authors:
 - Guldhammer B
 - Høybye MT
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://home.mycloud.com/action/share/d1b131fa-800e-431a-ac66-427abcedc75c" "newtab" >}}publication list{{< /staticref >}}.
+
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
@@ -87,4 +89,3 @@ url_video: ''
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://home.mycloud.com/action/share/d1b131fa-800e-431a-ac66-427abcedc75c" "newtab" >}}publication list{{< /staticref >}}.
