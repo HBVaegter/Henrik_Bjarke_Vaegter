@@ -79,4 +79,4 @@ url_video: ''
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Link to publication {{< staticref "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05776-7" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Link to open access publication {{< staticref "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05776-7" "newtab" >}}here{{< /staticref >}}.
