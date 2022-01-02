@@ -86,3 +86,5 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://home.mycloud.com/action/share/d1b131fa-800e-431a-ac66-427abcedc75c" "newtab" >}}publication list{{< /staticref >}}.
