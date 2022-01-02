@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-11-01T00:00:00Z"
+date: "2021-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,8 +28,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Medicine and Science in Sports and Medicine*
-publication_short: In *MSSE*
+publication: In *European Journal of Pain*
+publication_short: In *Eur J Pain*
 
 Purpose: Exercise increases pressure pain thresholds (PPT) in pain-free individuals, known as exercise-induced hypoalgesia (EIH). Positive preexercise information can elicit higher EIH responses, but the effect of positive versus negative preexercise information on EIH is unknown. The primary aim of this randomized controlled trial was to compare EIH at the exercising thigh muscle after an isometric squat exercise between individuals receiving positive versus negative preexercise information about the effect of exercise on pain. Secondary aims were to compare EIH at nonexercising muscles between groups, and to investigate the relationship between participants' expectations and EIH.
 
