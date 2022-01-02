@@ -1,5 +1,5 @@
 ---
-title: "Seventy The power of words: Influence of Preexercise Information on Hypoalgesia after Exercise - Randomized Controlled Trial"
+title: "The association of probable PTSD at baseline and pain-related outcomes after chronic pain rehabilitation: a comparison of DSM-5 and ICD-11 criteria for PTSD"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
