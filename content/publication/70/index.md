@@ -1,24 +1,21 @@
 ---
-title: "Low-dose naltrexone for the treatment of fibromyalgia: protocol for a double-blind, randomized, placebo-controlled trial"
+title: "70. The association of probable PTSD at baseline and pain-related outcomes after chronic pain rehabilitation: a comparison of DSM-5 and ICD-11 criteria for PTSD"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Karin Due Bruun
-- Kirstine Amris
+- Andersen TE
+- Hansen M
+- Ravn SL
 - admin
-- Morten Rune Blichfeldt-Eckhardt
-- Anders Holsgaard-Larsen
-- Robin Christensen
-- Palle Toft
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-11-01T00:00:00Z"
+date: "2021-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,16 +28,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Trials*
-publication_short: In *Trials*
+publication: In *European Journal of Pain*
+publication_short: In *Eur J Pain*
 
-Background: Low-dose naltrexone (LDN) is used widely as an off-label treatment for pain despite limited evidence for its effectiveness. A few small trials with a high risk of bias have investigated the effect of LDN on pain associated with fibromyalgia in women, but larger and more methodologically robust studies are needed. The primary aim of this randomized controlled trial is to investigate if 12 weeks of LDN treatment is superior to placebo in reducing the average pain intensity during the last 7 days in women with fibromyalgia.
+Purpose: Exercise increases pressure pain thresholds (PPT) in pain-free individuals, known as exercise-induced hypoalgesia (EIH). Positive preexercise information can elicit higher EIH responses, but the effect of positive versus negative preexercise information on EIH is unknown. The primary aim of this randomized controlled trial was to compare EIH at the exercising thigh muscle after an isometric squat exercise between individuals receiving positive versus negative preexercise information about the effect of exercise on pain. Secondary aims were to compare EIH at nonexercising muscles between groups, and to investigate the relationship between participants' expectations and EIH.
 
-Methods: A single-center, permuted block randomized, double-blind, placebo-controlled, parallel-group trial will be performed in Denmark. Randomization comprises 100 women aged 18-64 years diagnosed with fibromyalgia who will be treated with either LDN or placebo for 12 weeks including a 4-week titration phase. The primary outcome is change in average pain intensity (during the last 7 days) from baseline to 12 weeks. Secondary outcomes are other fibromyalgia-related symptoms, i.e., tenderness, fatigue, sleep disturbance, stiffness, memory problems, depression, anxiety and measures of global assessment, physical function, impact of fibromyalgia, pain distribution, and health-related quality of life. Intention-to-treat analysis will be performed, and the number of responders with a more than 15%, 30%, and 50% improvement of pain after 12 weeks will be calculated for the LDN and placebo groups. Exploratory outcomes include measures of pain sensitivity, muscle performance, and biomarkers.
+Methods: Eighty-three participants were randomly assigned to brief positive (n = 28), neutral (n = 28) or negative (n = 27) verbal information. The neutral information group was included in the study as a reference group. Pressure pain thresholds at the thigh and trapezius muscles were assessed before and after the intervention (i.e., preexercise information+squat exercise). Expectations of pain relief were assessed using a numerical rating scale (-10 [most negative] to 10 [most positive]).
 
-Discussion: This study will contribute with high-level evidence on the efficacy of low-dose naltrexone for the treatment of pain in women with fibromyalgia. Secondary outcomes include both disease-specific and generic components investigating whether LDN influences other symptoms than pain. Explorative outcomes are included to provide greater insight into the mechanism of action of LDN and possibly a better understanding of the underlying pathology in fibromyalgia.
+Results: Change in quadriceps and trapezius PPT after the squat exercise showed a large difference between the positive and negative information groups (quadriceps, 102 kPa; 95% confidence interval, 55-150; effect size, 1.2; trapezius, 41 kPa; 95% confidence interval, 16-65; effect size:, 0.9). The positive information group had a 22% increase in quadriceps PPT whereas the negative information group had a 4% decrease. A positive correlation was found between expectations and increase in PPT.
 
-Trial registration: EudraCT 2019-000702-30. ClinicalTrials.gov NCT04270877 
+Conclusions: Negative preexercise information caused hyperalgesia after the wall squat exercise, whereas positive or neutral preexercise information caused hypoalgesia. Positive preexercise information did not change the magnitude of EIH compared with neutral information.
+
+Trial registration: ClinicalTrials.gov NCT03678662. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,12 +47,12 @@ Trial registration: EudraCT 2019-000702-30. ClinicalTrials.gov NCT04270877
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Custom Link
- url: https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05776-7
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
 url_pdf: ''
 url_code: ''
@@ -76,8 +75,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-  projects:
-  url: http://example.org
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
