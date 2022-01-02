@@ -78,3 +78,5 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+{{< icon name="download" pack="fas" >}} Link to publication {{< staticref "https://www.degruyter.com/document/doi/10.1515/sjpain-2021-0081/html" "newtab" >}}here{{< /staticref >}}.
