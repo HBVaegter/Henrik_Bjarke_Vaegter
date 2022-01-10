@@ -79,4 +79,4 @@ url_video: ''
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Link to publication {{< staticref "https://eje.bioscientifica.com/view/journals/eje/182/6/EJE-19-0979.xml" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Link to open access publication {{< staticref "https://eje.bioscientifica.com/view/journals/eje/182/6/EJE-19-0979.xml" "newtab" >}}here{{< /staticref >}}.
