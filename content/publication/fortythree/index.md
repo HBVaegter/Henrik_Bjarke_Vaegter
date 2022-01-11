@@ -76,4 +76,5 @@ url_video: ''
 # slides: example
 ---
 
-{{< icon name="download" pack="fas" >}} Link to publication {{< staticref "https://pubmed.ncbi.nlm.nih.gov/31833911/" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Link to open access publication {{< staticref "https://findresearcher.sdu.dk:8443/ws/portalfiles/portal/158876808/application_pdf_1_.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Link to abstract in Pubmed {{< staticref "https://pubmed.ncbi.nlm.nih.gov/31833911/" "newtab" >}}here{{< /staticref >}}.
