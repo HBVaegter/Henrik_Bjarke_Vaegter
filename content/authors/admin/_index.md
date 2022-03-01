@@ -81,4 +81,4 @@ Henrik Bjarke Vægter has received research support as the principal investigato
 
 Henrik has a comprehensive teaching portfolio including formal education (Lecturer Training Programme, SDU) and supervision of master’s students, PhD students and postdocs as well as formal educational training in research leadership and management (Project Management and Leadership for researchers at RUC and SDU). He has served as PhD opponent in Denmark and Australia.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://home.mycloud.com/action/share/d1b131fa-800e-431a-ac66-427abcedc75c" "newtab" >}}publication list{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://home.mycloud.com/action/share/c9069a69-ab3d-4ca2-b74e-70d065a2a512" "newtab" >}}publication list{{< /staticref >}}.
