@@ -6,7 +6,7 @@ title: Henrik Bjarke Vægter
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor in Physiotherapy
+role: Professor in Physiotherapy & Pain Treatment
 
 # Organizations/Affiliations to show in About widget
 organizations:
